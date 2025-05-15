@@ -37,22 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatasai381&show_icons=true&theme=tokyonight" alt="venkatasai381" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatasai381&theme=tokyonight" alt="venkatasai381" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasai381&layout=compact&theme=tokyonight" alt="venkatasai381" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
